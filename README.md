@@ -35,5 +35,4 @@ Best model saved and evaluated on validation + test set
 ## Gradio Demo
 
 Here is the final Gradio interface combining YOLOv8 detection, classification, and segmentation:
-
-<img src="assets/gradio_ui.png" alt="Gradio UI Screenshot" width="700"/> 
+![Gradio UI](assets/gradio_ui.png)
